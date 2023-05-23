@@ -10,11 +10,50 @@ The YouTube Clone project aims to recreate the basic functionalities and design 
 
 - HTML5 and CSS3 for the user interface
 - JavaScript for client-side interactivity
-- ReactJS for better development
+
+## Libraries Used
+
+- ReactJS to build efficient, scalable, and interactive user interfaces by leveraging component-based architecture and virtual DOM.
+- Material-UI to create visually appealing design for great user experience.
+
+## Frameworks Used
+
+- Bootstrap to create responsive grid system, simplifying the process of creating stylish and mobile-friendly web applications.
 
 ## File Structure
 
-## ReactJS Concepts Used
+src<br>
+├── App.css<br>
+├── App.js<br>
+├── Components<br>
+│   ├── ChannelRow.css<br>
+│   ├── ChannelRow.js<br>
+│   ├── head.css<br>
+│   ├── Head.js<br>
+│   ├── main.css<br>
+│   ├── Main.js<br>
+│   ├── playback.css<br>
+│   ├── Playback.js<br>
+│   ├── reducer.js<br>
+│   ├── searchpage.css<br>
+│   ├── SearchPage.js<br>
+│   ├── sidebar.css<br>
+│   ├── Sidebar.js<br>
+│   ├── sidebaricon.css<br>
+│   ├── SidebarIcon.js<br>
+│   ├── StateProvider.js<br>
+│   ├── video.css<br>
+│   ├── Video.js<br>
+│   ├── videorow.css<br>
+│   └── Videorow.js<br>
+├── index.css<br>
+└── index.js<br>
+
+## Concepts Used
+
+- <b>React Router</b> : to easily navigate through all pages like searchPage, playBack, and homePage and to provide a seamless and great user experience with smooth transition without page loading. 
+- <b>Context</b> : to manage and share state across components without the need for prop drilling and to provide a consistent, personalized, and customized experience to the user. Also from the developer's point of view, data sharing and state changes are easily configured using context API.
+- <b>React Props</b> : it plays a crucial role in both user interaction and developer workflow. it enables customization, interactivity, and communication within the application while promoting reusable and modular code structures. Props facilitate a smooth and efficient development process, allowing developers to create user-friendly and maintainable React applications.
 
 ## Features
 
