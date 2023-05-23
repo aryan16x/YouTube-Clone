@@ -54,6 +54,7 @@ src<br>
 - <b>React Router</b> : to easily navigate through all pages like searchPage, playBack, and homePage and to provide a seamless and great user experience with smooth transition without page loading. 
 - <b>Context</b> : to manage and share state across components without the need for prop drilling and to provide a consistent, personalized, and customized experience to the user. Also from the developer's point of view, data sharing and state changes are easily configured using context API.
 - <b>React Props</b> : it plays a crucial role in both user interaction and developer workflow. it enables customization, interactivity, and communication within the application while promoting reusable and modular code structures. Props facilitate a smooth and efficient development process, allowing developers to create user-friendly and maintainable React applications.
+- <b>Pagination</b> : to enhance user experience by dividing large number of videosets into manageable chunks, improving performance and navigation within the application.
 
 ## Features
 
