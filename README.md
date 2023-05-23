@@ -6,6 +6,8 @@ This repository contains the code for a YouTube clone, built using web developme
 
 The YouTube Clone project aims to recreate the basic functionalities and design of the popular video-sharing platform, YouTube. It provides users with features like video playback, search, and more. This project serves as a learning resource for web developers interested in understanding how to build a video-sharing platform from scratch.
 
+Visit the website deployed using netlify [here](https://youtubearyan16x.netlify.app)
+
 ## Technologies Used
 
 - HTML5 and CSS3 for the user interface
