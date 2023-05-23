@@ -1,0 +1,27 @@
+src
+├── App.css
+├── App.js
+├── Components
+│   ├── ChannelRow.css
+│   ├── ChannelRow.js
+│   ├── head.css
+│   ├── Head.js
+│   ├── main.css
+│   ├── Main.js
+│   ├── playback.css
+│   ├── Playback.js
+│   ├── reducer.js
+│   ├── searchpage.css
+│   ├── SearchPage.js
+│   ├── sidebar.css
+│   ├── Sidebar.js
+│   ├── sidebaricon.css
+│   ├── SidebarIcon.js
+│   ├── StateProvider.js
+│   ├── video.css
+│   ├── Video.js
+│   ├── videorow.css
+│   └── Videorow.js
+├── firebase.js
+├── index.css
+└── index.js

@@ -1,0 +1,149 @@
+
+.Playback{
+    height: fit-content;
+    display: flex;
+}
+
+.playback_left{
+    flex: 0.63;
+    background-color: white;
+    padding-left: 60px;
+}
+
+.playback_right{
+    flex: 0.37;
+    background-color: yellow;
+}
+
+.videox{
+    width: 95%;
+    height: 400px;
+    margin-top: 10px;
+}
+
+.video_title_playback{
+    font-size: 20px;
+    margin-top: 5px;
+    font-weight: 700;
+}
+
+.video_info_playback{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    width: 95%;
+}
+
+.creator_name{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.creator_info{
+    margin-left: 15px;
+}
+
+.creator_image_small{
+    height: 38px;
+    width: 38px;
+    border-radius: 50%;
+}
+
+.subscriber_count{
+    font-size: 13px;
+    color: gray;
+}
+
+.subscribe_button{
+    width: 100px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+    margin-left: 28px;
+}
+
+.video_info_left{
+    display: flex;
+    justify-content: center;
+}
+
+.video_info_right{
+    display: flex;
+    justify-content: center;
+}
+
+.likedislike,.share{
+    display: flex;
+}
+
+.likedislike{
+    width: 150px;
+    background-color: rgb(237, 237, 237);
+    justify-content: space-between;
+    line-height: 100%;
+    align-items: center;
+    border-radius: 60px;
+}
+
+.dislike_button{
+    border-left: 1px solid black;
+    padding: 0px 15px;
+}
+
+.like_button{
+    padding: 0px 0px 0px 20px;
+}
+
+.share{
+    width: 100px;
+    background-color: rgb(237, 237, 237);
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 60px;
+    margin-left: 10px;
+}
+
+.share_button{
+    transform: scale(-1, 1);
+}
+
+.three_dot_x{
+    background-color: rgb(237, 237, 237);
+    border-radius: 60px;
+    width: 37px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.three_dot{
+    color: black;
+}
+
+.playback_description{
+    height: fit-content;
+    width: 95%;
+    background-color: rgb(237, 237, 237);
+    border-radius: 15px;
+    margin: 20px 0px 25px 0px;
+    padding: 15px 0px 15px 7.5px;
+}
+
+.playback_description > p {
+    margin-left: 7.5px;
+}
+
+.views_ts_playback{
+    font-weight: bolder;
+}
+
+.comment_section_playback{
+    height: 100px;
+}
+
+
+
+

@@ -1,0 +1,41 @@
+
+.Main{
+    flex: 0.93;
+    padding: 30px 25px;
+}
+
+.main_video{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.Main > h2{
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+
+.pagination_button{
+    display: flex;
+    justify-content: center;
+}
+
+.previous_button{
+    width: 150px;
+    height: 40px;
+    border: none;
+    background-color: black;
+    color: white;
+    margin: 0px 5px;
+    cursor: pointer;
+}
+
+.next_button{
+    width: 150px;
+    height: 40px;
+    border: none;
+    background-color: black;
+    color: white;
+    margin: 0px 5px;
+    cursor: pointer;
+}

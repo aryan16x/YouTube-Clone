@@ -1,0 +1,33 @@
+.App {
+  /* text-align: center; */
+  text-decoration: none !important;
+}
+
+a:-webkit-any-link {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:-webkit-any-link:visited {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+
+.compo{
+  display: flex;
+}
+
+.app_sidebar{
+  background-color: white;
+  position: fixed;
+}
+
+.app_main{
+  background-color: white;
+  margin-left: 80px;
+}
+
+.app_search{
+  margin-left: 80px;
+}
